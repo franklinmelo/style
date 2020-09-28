@@ -13,6 +13,7 @@ Emoji | Code | Commit Type
 :art: | `:art:` | quando melhorar a estrutura/formato do código
 :lipstick: | `:lipstick:` | quando melhorar UI/Cosmetic
 :hammer: | `:hammer:` | quando refatorar código
+:wrench: | `:wrench:` | quando realizar pequenos ajustes 
 :racehorse: | `:racehorse:` | quando melhorar a performance
 :memo: | `:memo:` | quando escrever alguma documentação
 :bug: | `:bug:` | quando corrigir um bug
